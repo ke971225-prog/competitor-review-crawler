@@ -1,0 +1,10 @@
+vendor/
+__pycache__/
+*.pyc
+.venv/
+.venv-crawler/
+output/
+output_full/
+output_complete/images/
+ms-playwright/
+
